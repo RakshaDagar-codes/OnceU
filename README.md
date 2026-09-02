@@ -3,7 +3,7 @@
 > **Building a bridge, one conversation at a time.**
 
 **Build with Bharat 2.0** — National Level Hackathon
-Team: **Just Us Being Us** | Team CodeVerse
+Team: **Just Us Being Us**
 Built by **Vaishnavi Shukla & Raksha Dagar**
 Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi
 
@@ -48,7 +48,7 @@ OnceU doesn't just connect students. **It creates a cycle where experience moves
 ### Core Highlights
 - 🤝 Peer to Peer Support
 - 💙 Trusted Connections
-- 🪙 Earn Coins for Guidance
+- 💰 Earn Coins for Guidance
 - 📈 Grow Together, Succeed Together
 
 ---
@@ -68,10 +68,10 @@ OnceU doesn't just connect students. **It creates a cycle where experience moves
 
 | Your Year | Chat 💬 | Voice 🎙️ | Video 📹 |
 |-----------|---------|----------|----------|
-| 1st Year  | 30 🪙   | 60 🪙    | 100 🪙   |
-| 2nd Year  | 40 🪙   | 80 🪙    | 130 🪙   |
-| 3rd Year  | 50 🪙   | 100 🪙   | 160 🪙   |
-| 4th Year  | 60 🪙   | 120 🪙   | 200 🪙   |
+| 1st Year  | 30 💰   | 60 💰    | 100 💰   |
+| 2nd Year  | 40 💰   | 80 💰    | 130 💰   |
+| 3rd Year  | 50 💰   | 100 💰   | 160 💰   |
+| 4th Year  | 60 💰   | 120 💰   | 200 💰   |
 
 ---
 
